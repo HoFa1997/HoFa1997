@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hossein</h1>
 <h3 align="center">Highly skilled Front-End Developer</h3>
 
-- 🔭 I’m currently working on [Daal Company](https://daal.co/)
+- 🔭 I’m currently working on SnappStore!
 
 - 💬 Ask me about **React, Next, Nest, MongoDB, ...**
 
